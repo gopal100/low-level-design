@@ -4,7 +4,6 @@ import com.demo.dto.parkingSpot.*;
 import com.demo.dto.vehicle.*;
 
 import java.time.*;
-import java.util.*;
 import java.util.concurrent.atomic.*;
 
 public class ParkingTicket {
